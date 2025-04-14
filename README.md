@@ -1,1 +1,1 @@
-solve promobot task
+SOLVE PROMOBOT TASK
